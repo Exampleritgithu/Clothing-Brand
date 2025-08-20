@@ -17,9 +17,6 @@ const Newtshop = () => {
           alt="Fashion"
           className="w-1/3 h-auto -mt-36 absolute "
         />
-
-        
-       
       </div>
       {/* Text */}
        <h2 className="font-serif text-4xl md:text-5xl text-white max-w-md laeading-slug ">

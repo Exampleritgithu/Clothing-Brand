@@ -8,7 +8,7 @@ const Professions = () => {
           {" "}
           Work & Office Attire
         </h2>
-        <h2 className="text-5xl  font-serif leading-16 ml-16 mt-6 italic">
+        <h2 className="text-7xl  font-serif leading-20 ml-16 mt-6 italic">
           Professional Pinstripe Blazers Collection
         </h2>
         <p className=" w-[70%] ml-16 mt-6  text-gray-500 font-bold">
